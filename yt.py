@@ -5,9 +5,9 @@ import xmltodict
 import json
 import os, sys
 
-
-data_file = "./video_data.txt"
-subscription_file = "./subscription_manager"
+dir_path = os.path.dirname(os.path.realpath(__file__))
+data_file = dir_path+"/video_data.txt"
+subscription_file = dir_path+"/subscription_manager"
 # Stores each video as an object
 class post:
 
