@@ -3,7 +3,7 @@
 This is a command-line utility that parses a file of YouTube channels and posts their videos by time uploaded. A video can be selected to watch in MPV by entering it's corresponding number.
 
 # Installation
-1. `pip3 install feedparser xml.etree requests xmltodict`
+1. `pip3 install feedparser requests xmltodict`
 2. Go to [https://www.youtube.com/subscription_manager](https://www.youtube.com/subscription_manager) and click the export button at the bottom of the page. This should give you a file called `subscription_manager` which you then put into whatever directory this repo is cloned into.
 
 
