@@ -10,6 +10,6 @@ This is a command-line utility that parses a file of YouTube channels and posts 
 Requires MPV. However, any player can be used if it can play a YT video via a URL by editing the command used at the bottom of the file.
 
 # Usage
-Cd into whatever director this is installed to, and run python3 yt.py. Enter a number corresponding to a video you would like to play to play it. Enter any letter to quit.
+Cd into whatever director this is installed to, and run `python3 yt.py`. Enter a number corresponding to a video you would like to play to play it. Enter any letter to quit.
 
 
